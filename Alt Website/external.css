@@ -1,0 +1,109 @@
+
+	
+	 /* unvisited link */
+a.webuntis:link {
+    color: orange;
+}
+
+/* visited link */
+a.webuntis:visited {
+    color: orange;
+}
+
+/* mouse over link */
+a.webuntis:hover {
+    color: red;
+}
+
+/* selected link */
+a.webuntis:active {
+    color: red;
+} 
+	
+	
+	
+ /* unvisited link */
+a.youtube:link {
+    color: red;
+}
+
+/* visited link */
+a.youtube:visited {
+    color: red;
+}
+
+/* mouse over link */
+a.youtube:hover {
+    color: orange;
+}
+
+/* selected link */
+a.youtube:active {
+    color: red;
+} 
+	
+	body {
+   background-image: url("Frühling.jpeg") ;
+   background-color: #cccccc;
+}
+
+	h1{
+	
+text-decoration: underline;
+margin-top: 0px;
+font-family:Times;
+font-size:70px;
+font-weight: bolder;
+font-style: italic;
+
+}
+						
+	p{
+
+font-family:Times;
+font-size:30px;
+font-weight: bolder;
+font-style: normal;
+margin:20px;
+}
+
+	br{
+
+font-family:Times;
+font-size:30px;
+font-weight: bolder;
+font-style: normal;
+
+}
+
+	#verschoben1{
+position:relative;
+bottom:10px;
+}
+	#verschoben2{
+position:relative;
+bottom:17px;
+}
+#verschoben3{
+position:relative;
+top:10px;
+right:12px
+
+}
+
+div{border: 2px solid white;
+position:relative;
+width: 150px;
+height: 70px;
+top:0px;
+left:0px;
+background-color:white;
+}
+
+#Uhr{
+position:absolute;
+top:100px;
+right:120px
+}
+
+</style>
